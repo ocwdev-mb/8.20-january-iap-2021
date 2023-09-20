@@ -1,0 +1,44 @@
+{
+  "term": "January IAP",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ]
+  ],
+  "legacy_uid": "e85ea619-13b1-fea5-110a-ad0bb430886a",
+  "instructors": {
+    "content": [
+      "c115f319-2adc-acbe-b7a3-c29d3bf1d75c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5bdb5262-7692-c412-1441-232c89de0a02",
+    "website": "8-20-introduction-to-special-relativity-january-iap-2021"
+  },
+  "course_title": "Introduction to Special Relativity",
+  "course_description": "The theory of special relativity, originally proposed by Albert Einstein in his famous 1905 paper, has had profound consequences on our view of physics, space, and time. This course will introduce you to the concepts behind special relativity including, but not limited to, length contraction, time dilation, the Lorentz transformation, relativistic kinematics, Doppler shifts, and even so-called \u201cparadoxes.\u201d\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.20",
+  "course_image_thumbnail": {
+    "content": "77453ffa-4419-68d4-1127-c69854648f87",
+    "website": "8-20-introduction-to-special-relativity-january-iap-2021"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "c557a87d-3a6b-49c8-bdf7-3b08428097b5",
+  "site_short_id": "8.20-january-iap-2021",
+  "title": "Course Metadata"
+}
