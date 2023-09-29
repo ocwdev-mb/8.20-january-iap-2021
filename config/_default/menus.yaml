@@ -1,0 +1,41 @@
+leftnav:
+- identifier: e04cea71-25f9-deff-4db9-ce3fd30d40c1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 87567a04-eab3-cc0d-a7d0-de4ca0810153
+  name: Video Lectures
+  pageRef: /pages/video-lectures/
+  weight: 20
+- identifier: ff411b92-a5ea-2fa8-fbd0-85f7bff43f5d
+  name: 'Week 1: Foundations of Special Relativity'
+  pageRef: /pages/video-lectures/week-1-foundations-of-special-relativity
+  parent: 87567a04-eab3-cc0d-a7d0-de4ca0810153
+  weight: 30
+- identifier: 312d9300-1d07-725f-3966-319a2607c7ac
+  name: 'Week 2: Spacetime in Special Relativity'
+  pageRef: /pages/video-lectures/week-2-spacetime-in-special-relativity
+  parent: 87567a04-eab3-cc0d-a7d0-de4ca0810153
+  weight: 40
+- identifier: a61d41ac-0903-2f68-e4d4-26ef3621d502
+  name: 'Week 3: Kinematics in Special Relativity'
+  pageRef: /pages/video-lectures/week-3-kinematics-in-special-relativity
+  parent: 87567a04-eab3-cc0d-a7d0-de4ca0810153
+  weight: 50
+- identifier: 642a5cda-b2de-ca1a-bd36-57fed822a843
+  name: 'Week 4: Beyond Special Relativity'
+  pageRef: /pages/video-lectures/week-4-beyond-special-relativity
+  parent: 87567a04-eab3-cc0d-a7d0-de4ca0810153
+  weight: 60
+- identifier: 6c3bb6e6-0d6e-3469-6da9-478c565c7658
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 3c77852e-dc8f-16b7-03e2-4517bdb2fdef
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 31206b29-0d40-cf5f-b4ff-09b0f25f63fd
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
